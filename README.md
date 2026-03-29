@@ -130,3 +130,9 @@ This project demonstrates how to build agentic / RAG-based systems that are:
 
 ## Getting Started
 
+### 1. Clone the Repository
+```bash
+git clone https://github.com/mlmarketplace/CFAAS-Multi-Layer-Responsible-AI-Stack-for-Agentic-Systems.git
+cd CFAAS-Multi-Layer-Responsible-AI-Stack-for-Agentic-Systems
+
+
